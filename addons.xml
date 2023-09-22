@@ -41,7 +41,7 @@
  <extension point="xbmc.addon.repository" name="Repositório Teste">
 	<info compressed="false">https://raw.githubusercontent.com/juninho122019/CineDragon1/main/addons.xml</info>
 	<checksum>https://raw.githubusercontent.com/juninho122019/CineDragon1/main/addons.xml.md5</checksum>
-	<datadir zip="true">https://github.com/juninho122019/CineDragon1/raw/main/zip</datadir>
+	<datadir zip="true">https://mirrors.mit.edu/kodi/addons/leia/</datadir>
   </extension>
   
   <extension point="xbmc.addon.metadata">
